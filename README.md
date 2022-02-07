@@ -75,7 +75,6 @@ Table employee {
 ```http
   POST /localhost:8080/departments
 ```
-`Response:`
 ```json
 {
   "id": 1,
@@ -86,7 +85,6 @@ Table employee {
 ```http
   POST /localhost:8080/employees
 ```
-`Response:`
 ```json
 {
   "id": 1,
