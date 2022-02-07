@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 31 20:23:39 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-b0a0-8e3f-000001f9bab0 
+on database directory memory:/home/utkarshsinha/Desktop/Paytm Projects/edm-application/c0aa21c5-cc3e-4794-8459-619ff0da5589 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/home/utkarshsinha/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=/home/utkarshsinha/Desktop/Paytm Projects/edm-application
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-27-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
